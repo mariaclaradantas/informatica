@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin: auto;
+}
+
+.descricao{
+    text-align: justify;
+}
+
+a{
+    text-decoration: none;
+}
+
+p{
+    text-align: center;
+}
